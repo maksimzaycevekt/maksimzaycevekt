@@ -1,5 +1,9 @@
 <h1 align="center">🅷🅸 🆃🅷🅴🆁🅴 🅸'🅼 🅼🅰🆇🅸🅼 🆉🅰🅸🆃🆂🅴🆅</h1>
 
+<h2>🅰🅱🅾🆄🆃 🅼🅴<h2>
+  <p align="center">Ｉ'ｍ ｂｅｇｉｎｎｅｒ ｆｒｏｎｔｅｎｄ ｄｅｖｅｌｏｐｅｒ ｆｒｏｍ Ｙｅｋａｔｅｒｉｎｂｕｒｇ</p>
+  <p align="center"></p>
+
 <h2>🅼🆈 🆂🅺🅸🅻🅻🆂:<h2>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
